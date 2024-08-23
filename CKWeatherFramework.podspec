@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   CKWeatherFramework is an Objective-C framework that provides weather information based on latitude/longitude or address. 
                    DESC
 
-  spec.homepage     = "https://github.com/chhavi-krishan-kaushik/git-public-demo"
+  spec.homepage     = "https://github.com/chhavi-krishan-kaushik/CKWeatherFramework"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/chhavi-krishan-kaushik/git-public-demo", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/chhavi-krishan-kaushik/CKWeatherFramework", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
